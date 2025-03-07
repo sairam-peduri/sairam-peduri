@@ -1,13 +1,14 @@
 ## 👋 Hello, World! I'm PEDURI VENKATA SAIRAM
 
 ### 🚀 Java Developer | Full Stack MERN Developer
-<table style="border-radius: 15px; border: 2px solid #ddd; padding: 10px;">
+
+<table style="border-radius: 15px; border: 2px solid #ddd; padding: 10px; width: 100%; max-width: 800px; margin: auto;">
 <tr>
-<td style="border-radius: 15px; padding: 15px; background-color: #f9f9f9;">
+<td style="border-radius: 15px; padding: 15px; background-color: #f9f9f9; text-align: justify;">
 I am a passionate **Computer Science and Engineering - Data Science** student at **CVR College of Engineering** (2022-2026). I specialize in **Java development** and **full-stack web applications** using the **MERN stack**. I love solving real-world problems with clean and efficient code.
 </td>
-<td style="border-radius: 15px; padding: 10px;">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 15px;"/>
+<td style="border-radius: 15px; padding: 10px; text-align: center;">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 15px; max-width: 100%;"/>
 </td>
 </tr>
 </table>
@@ -16,17 +17,34 @@ I am a passionate **Computer Science and Engineering - Data Science** student at
 
 ### 🔧 Tech Stack
 
+<style>
+.tech-icon {
+  transition: transform 0.3s ease-in-out;
+  border-radius: 10px;
+}
+.tech-icon:hover {
+  transform: scale(1.1);
+}
+</style>
+
 **💻 Programming Languages:**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img class="tech-icon" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img class="tech-icon" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 **🖥 Frontend Development:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<img class="tech-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img class="tech-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img class="tech-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img class="tech-icon" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 **⚙ Backend Development:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Java](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<img class="tech-icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img class="tech-icon" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img class="tech-icon" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
 **🗄️ Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img class="tech-icon" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img class="tech-icon" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ---
 
@@ -39,8 +57,11 @@ I am a passionate **Computer Science and Engineering - Data Science** student at
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=sairam-peduri&show_icons=true&theme=react&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-peduri&layout=compact&theme=react)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-peduri&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-peduri&layout=compact&theme=react" alt="Top Languages"/>
+</div>
 
 ---
 
