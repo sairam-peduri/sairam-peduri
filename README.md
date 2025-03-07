@@ -38,6 +38,10 @@ I am a passionate **Computer Science and Engineering - Data Science** student at
 <img class="tech-icon" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Hadoop-FF9900?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 
+### Tools  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
 ---
 
 ### 🏆 My Projects
