@@ -57,7 +57,7 @@ I am a passionate **Computer Science and Engineering - Data Science** student at
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-peduri&theme=react&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-peduri&layout=compact&theme=react" alt="Top Languages"/>
