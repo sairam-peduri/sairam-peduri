@@ -31,7 +31,7 @@ I am a passionate **Computer Science and Engineering - Data Science** student at
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sairam-peduri&theme=react&hide_border=true)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=sairam-peduri&show_icons=true&theme=react&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-peduri&layout=compact&theme=react)
 
 ---
