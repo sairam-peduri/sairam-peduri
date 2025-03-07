@@ -1,12 +1,16 @@
 ## 👋 Hello, World! I'm PEDURI VENKATA SAIRAM
 
 ### 🚀 Java Developer | Full Stack MERN Developer
-
+<table>
+<tr>
+<td>
 I am a passionate **Computer Science and Engineering - Data Science** student at **CVR College of Engineering** (2022-2026). I specialize in **Java development** and **full-stack web applications** using the **MERN stack**. I love solving real-world problems with clean and efficient code.
-
----
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
