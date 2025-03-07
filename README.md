@@ -17,16 +17,6 @@ I am a passionate **Computer Science and Engineering - Data Science** student at
 
 ### 🔧 Tech Stack
 
-<style>
-.tech-icon {
-  transition: transform 0.3s ease-in-out;
-  border-radius: 10px;
-}
-.tech-icon:hover {
-  transform: scale(1.1);
-}
-</style>
-
 **💻 Programming Languages:**  
 <img class="tech-icon" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img class="tech-icon" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
