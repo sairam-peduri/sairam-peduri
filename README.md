@@ -1,6 +1,6 @@
 ## 👋 Hello, World! I'm PEDURI VENKATA SAIRAM
 
-### 🚀 Java Developer | Full Stack MERN Developer | Data Analyst
+### 🚀 Java Developer | Data Analyst
 
 <table style="border-radius: 15px; border: 2px solid #ddd; padding: 10px; width: 100%; max-width: 800px; margin: auto;">
 <tr>
