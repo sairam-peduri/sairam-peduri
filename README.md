@@ -46,7 +46,7 @@ I am a passionate **Computer Science and Engineering - Data Science** student at
 
 ### 🏅 Badges
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sairam_peduri&animated=true&theme=dracula)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sairam_peduri&animated=true&theme=dark)
 
 
 ---
