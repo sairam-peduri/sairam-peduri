@@ -44,6 +44,12 @@ I am a passionate **Computer Science and Engineering - Data Science** student at
 
 ---
 
+### 📊 GitHub Stats
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={sairam_peduri}&animated=true)
+
+---
+
 ### 🏆 My Projects
 
 - 🌱 **[Online Nursery Plant Shopping](#)** – A MERN-based e-commerce platform for plant shopping  
