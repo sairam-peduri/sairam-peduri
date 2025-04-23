@@ -5,7 +5,7 @@
 <table style="border-radius: 15px; border: 2px solid #ddd; padding: 10px; width: 100%; max-width: 800px; margin: auto;">
 <tr>
 <td style="border-radius: 15px; padding: 15px; background-color: #f9f9f9; text-align: justify;">
-I am a passionate **Computer Science and Engineering - Data Science** student at **CVR College of Engineering** (2022-2026). I specialize in **Java development** and **full-stack web applications** using the **MERN stack**. I love solving real-world problems with clean and efficient code.
+As a CS student specializing in Data Science and full-stack Java/MERN development, I focus on building real-world, user-centric solutions. From backend APIs to frontend dashboards, I love crafting products that work, scale, and solve real problems.
 </td>
 <td style="border-radius: 15px; padding: 10px; text-align: center;">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 15px; max-width: 100%;"/>
