@@ -54,7 +54,7 @@ As a CS student specializing in Data Science and full-stack Java/MERN developmen
 ### 🏆 My Projects
 
 - 🌱 **[Online Nursery Plant Shopping](#)** – A MERN-based e-commerce platform for plant shopping  
-- 🍔 **[MERN Food Delivery Website](#)** – A full-stack food ordering system  
+- 🍔 **[LifeLine Health Care Website](#)** – A full-stack Disease Predictiona and Health Records manager.  
 
 ---
 
