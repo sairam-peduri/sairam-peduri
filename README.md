@@ -1,11 +1,11 @@
 ## 👋 Hello, World! I'm PEDURI VENKATA SAIRAM
 
-### 🚀 MERN Developer | Data Analyst | Java Developer
+### 🚀 MERN Developer | Data Analyst | Java Developer | Web3 Learner
 
 <table style="border-radius: 15px; border: 2px solid #ddd; padding: 10px; width: 100%; max-width: 800px; margin: auto;">
 <tr>
 <td style="border-radius: 15px; padding: 15px; background-color: #f9f9f9; text-align: justify;">
-As a CS student specializing in Data Science and full-stack Java/MERN development, I focus on building real-world, user-centric solutions. From backend APIs to frontend dashboards, I love crafting products that work, scale, and solve real problems.
+As a Computer Science student specializing in Data Science and full-stack Java/MERN development, I’m passionate about crafting real-world solutions. I recently ventured into Web3 development and built a decentralized healthcare platform called <strong>LifeLine</strong> using Solana, Phantom Wallet, and Firebase for authentication. From backend APIs to frontend dashboards and now decentralized dApps, I aim to solve real problems with scalable tech.
 </td>
 <td style="border-radius: 15px; padding: 10px; text-align: center;">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 15px; max-width: 100%;"/>
@@ -38,9 +38,14 @@ As a CS student specializing in Data Science and full-stack Java/MERN developmen
 <img class="tech-icon" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Hadoop-FF9900?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 
+**🔗 Web3 Tools:**  
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Phantom-551BF9?style=for-the-badge&logo=phantom&logoColor=white" />
+
 ### Tools  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 
 ---
 
@@ -48,13 +53,12 @@ As a CS student specializing in Data Science and full-stack Java/MERN developmen
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sairam_peduri&animated=true&theme=dark)
 
-
 ---
 
 ### 🏆 My Projects
 
 - 🌱 **[Online Nursery Plant Shopping](#)** – A MERN-based e-commerce platform for plant shopping  
-- ❤ **[LifeLine Health Care Website](#)** – A full-stack Disease Predictiona and Health Records manager.  
+- ❤ **[LifeLine Web3 Healthcare Platform](https://life-line3.vercel.app)** – A decentralized dApp for disease prediction, real-time doctor-patient chat, and SOL payments via Phantom Wallet.  
 
 ---
 
@@ -73,3 +77,7 @@ As a CS student specializing in Data Science and full-stack Java/MERN developmen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peduri-venkata-sairam)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sairam-peduri)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairampeduri@gmail.com)
+
+---
+
+> ⚡️ Currently exploring more in the Web3 ecosystem and smart contract development. Always open to collaborations and new ideas!
